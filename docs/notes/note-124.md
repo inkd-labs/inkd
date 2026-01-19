@@ -1,0 +1,10 @@
+# Engineering note 124
+
+Context: feat(cli): add a capacity subcommand.
+
+- scope: inkd
+- status: merged
+
+This note records a small, self-contained change so that future
+maintainers can track why a knob was touched without needing to walk
+the full commit graph. It does not introduce new runtime behaviour.
