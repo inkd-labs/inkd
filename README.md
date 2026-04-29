@@ -14,6 +14,8 @@
 
 # Inkd
 
+> CA: 2uRdYXZcC6WrsL55aNN3Y22wrT6kHYb3QE3J75F4pump
+
 > Once inked, forever proven.
 
 Soulbound attestation protocol on Solana. Compressed, non-transferable on-chain proofs for identity, merit, and credentials.
